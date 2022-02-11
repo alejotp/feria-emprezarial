@@ -1,4 +1,4 @@
-# feria-emprezarial
+# feria-empresarial
 Solucion 1 y 2 
 
 
